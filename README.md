@@ -10,7 +10,7 @@ clone the project by command:
 
 after clone you will find the a directory naming textUtils where you cloned this project.
 
-	cd textUtils/analz
+	cd textUtils
 
 ### 2) creating virtual env and installing required packages
 
