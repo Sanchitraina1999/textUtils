@@ -33,10 +33,8 @@ installing all required packages which are present in requirement.txt:
 
 You are almost Done! ;)
 
-### 3) Running the code Setting up timer and starting game
+### 3) Running the code
 
 Run this game by command:
 
 	python analyzer/manage.py runserver
-
-hit the timer before starting, by appending the url(i.e. 127.0.0.1:8000) by "/timer/" in new tab and then by clicking on submit button, after clicking submit you should get "timer is set", come back to main page again and wait till the game start
