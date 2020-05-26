@@ -1,12 +1,12 @@
 # TEXTUTILS
 
-So, here is a quick guide for installation of this whole game on your PC and host it locally!
+So, here is a quick guide for installation of this whole project on your PC and host it locally!
 
 ### 1) Clone the Project
 
 clone the project by command:
 	
-	git clone https://github.com/clash-rc-round-2/Clash-Round-2.git
+	git clone https://github.com/Sanchitraina1999/textUtils
 
 after clone you will find the a directory naming Clash-Round-2 where you cloned this project.
 
