@@ -26,9 +26,9 @@ activate this envirnoment:
 
 	source env/bin/activate
 
-installing all required packages which are present in requirement.txt:
+installing all required packages which are present in requirements.txt:
 
-	pip install -r requirement.txt
+	pip install -r requirements.txt
 	
 
 You are almost Done! ;)
