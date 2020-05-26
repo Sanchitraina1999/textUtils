@@ -8,9 +8,9 @@ clone the project by command:
 	
 	git clone https://github.com/Sanchitraina1999/textUtils
 
-after clone you will find the a directory naming Clash-Round-2 where you cloned this project.
+after clone you will find the a directory naming textUtils where you cloned this project.
 
-	cd Clash-Round-2/
+	cd textUtils/analz
 
 ### 2) creating virtual env and installing required packages
 
