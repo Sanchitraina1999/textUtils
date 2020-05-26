@@ -37,4 +37,4 @@ You are almost Done! ;)
 
 Run this game by command:
 
-	python analyzer/manage.py runserver
+	python3 analyzer/manage.py runserver
