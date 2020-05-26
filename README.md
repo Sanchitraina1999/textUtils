@@ -1,2 +1,0 @@
-# textUtils
-simple Django!
